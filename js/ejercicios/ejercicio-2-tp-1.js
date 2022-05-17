@@ -1,0 +1,1 @@
+document.write("<br><b>Punto 2: Hello World");

@@ -1,0 +1,1 @@
+window.alert("<br><b>Punto 1: Un mensaje");
